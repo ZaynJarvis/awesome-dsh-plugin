@@ -43,6 +43,7 @@ dsh plugin --profile web add dshmarket
 
 ### UI Enhancements
 
+- [dlgrv/dsh-remove-deepseek-logo](https://github.com/dlgrv/dsh-remove-deepseek-logo) - Removes the DeepSeek logo, brand name, version string, and the conversation hero fish from the sidebar.
 - [Limitinfinitude/DSH-Right-Sidebar](https://github.com/Limitinfinitude/DSH-Right-Sidebar) - DSH Web right-side output dock that collects session artifacts, previews user-facing files, and preserves tab state per session.
 - [No-PRM/dsh-explorer](https://github.com/No-PRM/dsh-explorer) - Git-first file-tree sidebar for the DSH web GUI: VS Code-style indent guides, M/A/U/D/R git decorations, HEAD-vs-worktree diff preview, media preview, and drag-to-reference (files/folders/selected code with line numbers) — pure plugin.
 - [xiaweiliang060035/dsh-opencode-go-usage](https://github.com/xiaweiliang060035/dsh-opencode-go-usage) - Floating widget showing real-time OpenCode Go subscription usage (rolling/weekly/monthly) for every API key, with rate-limit alerts and automatic key-pool discovery.
